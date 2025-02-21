@@ -102,6 +102,45 @@
         width: 80%;
         margin: auto;
     }
+    .truck{
+        display: none;
+    }
+
+    .footer p{
+        margin-bottom: 54px;
+    }
+
+    .footer-contact-information{
+        display: block;
+        width: 100%;
+        position: fixed;
+        bottom: 0px;
+        display: flex;
+        align-items: center;
+        
+    }
+    .footer-contact-information .left{
+        width: 50%;
+        font-size: 20px;
+        padding: 20px;
+        text-align: center;
+        color: white;
+        background-color: #035fae;
+    }
+    .footer-contact-information .left i{
+        margin-right: 10px;
+    }
+    .footer-contact-information .right i{
+        margin-right: 10px;
+    }
+    .footer-contact-information .right{
+        width: 50%;
+        text-align: center;
+        padding: 20px;
+        font-size: 20px;
+        color: white;
+        background-color: #ffcf40;
+    }
 
 
 

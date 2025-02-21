@@ -706,7 +706,9 @@
     top: 33px;
     left: 85px;
 }
-
+.footer-contact-information{
+    display: none;
+}
 
 
 
