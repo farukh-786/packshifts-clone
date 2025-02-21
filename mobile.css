@@ -1,0 +1,110 @@
+/* MOBILE RESPONSIVE START */
+@media only screen and (min-width:200px) and (max-width:567px){
+    .header .numbers{
+        display: none;
+    }
+    .img{
+        /* border: 2px solid red; */
+        margin: auto;
+    }
+
+
+    .bannerInner{
+       display: block;
+    }
+    .bannerInner .left{
+        width: 100%; 
+        text-align: center;
+    }
+    .bannerInner .right{
+        width: 100%;
+    }
+    .formDiv{
+        width: 80%;
+        margin: auto;
+    }
+    .main-cotainer{
+        width: 100%;
+
+
+    }
+    .inner-box{
+        width: 100%;
+    }
+    .inner-box .span{
+        margin-top: 16px;
+       
+    }
+
+    .our-core-services{
+        max-width: 1100px;
+        margin: auto;
+        font-size: 20px;
+        text-align: center;
+        padding: 20px;
+        /* font-weight: bold; */
+        font-family: 'lato' sans-serif;
+    }
+     
+    .our-core-services-continer-2 .inner{
+        width: 98%;
+        margin: 2% 3%;
+    }
+
+    .Choose-Packshifts-Packers-Movers .inner{
+        width: 48%;
+    }
+    .over-achievement span{
+        font-size: 23px;
+    }
+    .over-achievement i{
+        font-size: 23px;
+    }
+    .over-achievement h3{
+        margin-top: 20px;
+        font-size: 17px;
+    }
+    .over-achievement-container-2{
+
+        flex-wrap: wrap;
+    }
+    .over-achievement-container-2 .inner{
+        width: 48%;
+
+    }
+    .over-achievement-container-2 .inner img{
+        margin-left: 43%;
+    }
+    .happy-customer-container-inner{
+       
+        top: 5px;
+        left: 199px;
+    }
+    .happy-customer-container> img{
+        margin-left: 99px;
+        margin-top: 84px;
+    }
+    .happy-customer-container p{
+        padding: 88px 31px 63px 31px;
+    }.Our-Clients-container-Image{
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .Our-Clients-container-Image .inner{
+        width: 48%;
+        margin: 1%;
+    }
+    .footer-inner{
+        padding: 0px 50px;
+    }
+
+    .footer-line{
+        width: 80%;
+        margin: auto;
+    }
+
+
+
+    
+}
+    
